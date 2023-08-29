@@ -4906,7 +4906,7 @@
       "unpackedsize": 6092
     }
   ],
-  "executable": "bin/client_launcher.exe",
+  "executable": "bin/clien.exe",
   "generation": "second",
   "variant": "regular",
   "revision": 1
