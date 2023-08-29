@@ -74,14 +74,6 @@
       "unpackedsize": 19309840
     },
     {
-      "localfile": "bin/client_launcher.exe",
-      "packedhash": "9253829b8f84f93d8905be575b6956a50da46df2b1e4b3449b8ad1c3997af8b2",
-      "packedsize": 910811,
-      "url": "bin/client_launcher.exe.lzma",
-      "unpackedhash": "0912b79762cab916ff5d59977efa148e87c64a5e0ba711f2000cdb8b2a02476e",
-      "unpackedsize": 1316104
-    },
-    {
       "localfile": "bin/d3dcompiler_43.dll",
       "packedhash": "1e0012e8bb368f0809639b9b9eb71486863fc160a457dd64abc880fd19502ab1",
       "packedsize": 865858,
@@ -4909,5 +4901,5 @@
   "executable": "bin/client.exe",
   "generation": "second",
   "variant": "regular",
-  "revision": 1
+  "revision": 2
 }
