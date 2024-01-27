@@ -154,14 +154,6 @@
       "unpackedsize": 20478864
     },
     {
-      "localfile": "bin/client_launcher.exe",
-      "packedhash": "110c0c24955ddf9fd49347cf4df36b1d465f3e56e1169862bc308b85538382f2",
-      "packedsize": 876773,
-      "url": "bin/client_launcher.exe.lzma",
-      "unpackedhash": "0912b79762cab916ff5d59977efa148e87c64a5e0ba711f2000cdb8b2a02476e",
-      "unpackedsize": 1316104
-    },
-    {
       "localfile": "bin/OpenAL32.dll",
       "packedhash": "1daed815b2508d691b6f164def065fbb6527e7eda7ab2e218443a2e6a5826f7c",
       "packedsize": 631555,
