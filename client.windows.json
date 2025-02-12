@@ -154,14 +154,6 @@
       "unpackedsize": 20768152
     },
     {
-      "localfile": "bin/client_launcher.exe",
-      "packedhash": "110c0c24955ddf9fd49347cf4df36b1d465f3e56e1169862bc308b85538382f2",
-      "packedsize": 876773,
-      "url": "bin/client_launcher.exe.lzma",
-      "unpackedhash": "0912b79762cab916ff5d59977efa148e87c64a5e0ba711f2000cdb8b2a02476e",
-      "unpackedsize": 1316104
-    },
-    {
       "localfile": "bin/OpenAL32.dll",
       "packedhash": "19e95fe0af03d75ec71285e39743617421afadeae5c888b4f4e19d791d26c7f5",
       "packedsize": 631559,
@@ -5192,73 +5184,9 @@
       "url": "conf/gpublacklist.json.lzma",
       "unpackedhash": "701ab5a4fbc267d2978bab48cd7f91a9b44ad817f805238a6556160903f48252",
       "unpackedsize": 6092
-    },
-    {
-      "localfile": "3rdpartylicences/qt.txt",
-      "packedhash": "e422865c17082e2345b61879fff16054d75769d591672284c82957f91647170d",
-      "packedsize": 12381,
-      "url": "3rdpartylicences/qt.txt.lzma",
-      "unpackedhash": "0abced08bdf50cc10c373e1f5cf59907d6c9743ba01dd4cce52a01f29e41d7cf",
-      "unpackedsize": 40513
-    },
-    {
-      "localfile": "3rdpartylicences/google-protobuf.txt",
-      "packedhash": "667262d17d753f3f3bcb7601275a6c017d8e450f803acd366453f1b8ae358079",
-      "packedsize": 1177,
-      "url": "3rdpartylicences/google-protobuf.txt.lzma",
-      "unpackedhash": "7d9604162d51e8acdafe73ecf75acc1c752b47abd026d8b0b3a4cb2d2f1919b1",
-      "unpackedsize": 2247
-    },
-    {
-      "localfile": "3rdpartylicences/sfml-3rdparty.txt",
-      "packedhash": "b955c30e1256e74eda800620be36707a8fbf64bbce001883e915b11dbdd33a05",
-      "packedsize": 8722,
-      "url": "3rdpartylicences/sfml-3rdparty.txt.lzma",
-      "unpackedhash": "8b17b10465e7dce31c1007acb949c1e5a2979ebc5c339d065835a05b4855c6e6",
-      "unpackedsize": 30065
-    },
-    {
-      "localfile": "3rdpartylicences/openssl.txt",
-      "packedhash": "e6cc9ed10a7e1ce591ef52ffa6dcd0c9ef574aec155ee8560868c97c363f927e",
-      "packedsize": 2014,
-      "url": "3rdpartylicences/openssl.txt.lzma",
-      "unpackedhash": "d9a19def0bf5a0f0ad0b7eed1998462f78873b54fc1b34782a6af96fc5522d09",
-      "unpackedsize": 5895
-    },
-    {
-      "localfile": "3rdpartylicences/qt-3rdparty.txt",
-      "packedhash": "10ca38fce5d152121ca474c7414c50a85eb955c6dc2632e2717952ecb5bbb3b3",
-      "packedsize": 14858,
-      "url": "3rdpartylicences/qt-3rdparty.txt.lzma",
-      "unpackedhash": "529e6be52de4163b001767aa027d243ea502190a6047347dcb27bf5dedde8246",
-      "unpackedsize": 86670
-    },
-    {
-      "localfile": "3rdpartylicences/apache-v2.txt",
-      "packedhash": "7a876ad6425ef61e6a3ce2463ca8781f3b9361b2716fd792981d13eb5966d871",
-      "packedsize": 3270,
-      "url": "3rdpartylicences/apache-v2.txt.lzma",
-      "unpackedhash": "f1db14746c8b94513787e07010d22dee5e370850cdd14bce705c273ff65786dd",
-      "unpackedsize": 9196
-    },
-    {
-      "localfile": "3rdpartylicences/battleye-eula.txt",
-      "packedhash": "0875c31438d943b92e550dde3f9d270a28847e95ee523725da4642acb8f3a95c",
-      "packedsize": 1287,
-      "url": "3rdpartylicences/battleye-eula.txt.lzma",
-      "unpackedhash": "b9c8d8826c3292043d51ec63163b5ee7b577f78fa52dddd99843534b2a737a6a",
-      "unpackedsize": 2807
-    },
-    {
-      "localfile": "3rdpartylicences/easyloggingpp.txt",
-      "packedhash": "a9deb7041b02a04de3023f58bac1c75d8427a57eb9e45c4927a03207fe32b2ed",
-      "packedsize": 788,
-      "url": "3rdpartylicences/easyloggingpp.txt.lzma",
-      "unpackedhash": "1739fb768b5bc5ce71440dd3ee42b18dcd583ddab1d9503690e41a6f6a1833f4",
-      "unpackedsize": 1249
     }
   ],
-  "executable": "bin/client_launcher.exe",
+  "executable": "bin/client.exe",
   "generation": "second",
   "variant": "regular",
   "revision": 3
