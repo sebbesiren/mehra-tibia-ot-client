@@ -18,14 +18,6 @@
       "unpackedsize": 5514128
     },
     {
-      "localfile": "bin/client_launcher.exe",
-      "packedhash": "110c0c24955ddf9fd49347cf4df36b1d465f3e56e1169862bc308b85538382f2",
-      "packedsize": 876773,
-      "url": "bin/client_launcher.exe.lzma",
-      "unpackedhash": "0912b79762cab916ff5d59977efa148e87c64a5e0ba711f2000cdb8b2a02476e",
-      "unpackedsize": 1316104
-    },
-    {
       "localfile": "bin/Qt6QuickControls2Imagine.dll",
       "packedhash": "e70f2e1e8874d61fd28efb4b8da55d7c87b2b21c222a8b0ef2502bb8131bde81",
       "packedsize": 727983,
